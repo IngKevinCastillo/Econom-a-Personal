@@ -1,0 +1,99 @@
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\bin\Debug\Entidades.dll
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\kevin\source\repos\ProyectoP3\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.AssemblyReference.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\obj\Debug\Persiste.7F7D6998.Up2Date
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Persistencia\obj\Debug\Persistencia.pdb

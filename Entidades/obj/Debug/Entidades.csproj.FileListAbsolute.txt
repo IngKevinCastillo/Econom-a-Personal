@@ -1,0 +1,54 @@
+C:\Users\kevin\source\repos\ProyectoP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\source\repos\ProyectoP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\source\repos\ProyectoP3\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ProyectoP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ProyectoP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\source\repos\ProyectoP3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\programacion 3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\programacion 3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Entidades\obj\Debug\Entidades.pdb

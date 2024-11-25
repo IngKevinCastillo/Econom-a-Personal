@@ -1,0 +1,442 @@
+C:\Users\kevin\source\repos\ProyectoP3\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\source\repos\ProyectoP3\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\source\repos\ProyectoP3\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\source\repos\ProyectoP3\Logica\bin\Debug\Persistencia.dll
+C:\Users\kevin\source\repos\ProyectoP3\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\source\repos\ProyectoP3\Logica\bin\Debug\Persistencia.pdb
+C:\Users\kevin\source\repos\ProyectoP3\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ProyectoP3\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ProyectoP3\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\kevin\source\repos\ProyectoP3\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\source\repos\ProyectoP3\Logica\obj\Debug\Logica.pdb
+D:\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+D:\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+D:\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+D:\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+D:\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+D:\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+D:\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+D:\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+D:\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\programacion 3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\programacion 3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+D:\programacion 3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\programacion 3\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll.config
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Logica.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Logica.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\IndexRange.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Entidades.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Persistencia.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Buffers.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Memory.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Text.Json.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\bin\Debug\System.ValueTuple.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\obj\Debug\Logica.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\Logica\obj\Debug\Logica.pdb

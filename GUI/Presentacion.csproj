@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{23E1500F-E866-4D42-9C6D-3146D8E7C128}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
+      <HintPath>..\packages\BouncyCastle.Cryptography.2.4.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.4\lib\net461\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp.xmlworker, Version=5.5.13.4, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\itextsharp.xmlworker.5.5.13.4\lib\net461\itextsharp.xmlworker.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarCategoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarCategoria.Designer.cs">
+      <DependentUpon>AgregarCategoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaGasto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaGasto.Designer.cs">
+      <DependentUpon>ConsultaGasto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaIngreso.Designer.cs">
+      <DependentUpon>ConsultaIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DashBoard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DashBoard.Designer.cs">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarEgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarEgreso.Designer.cs">
+      <DependentUpon>EditarEgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditarIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EditarIngreso.Designer.cs">
+      <DependentUpon>EditarIngreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCrearUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCrearUsuario.Designer.cs">
+      <DependentUpon>frmCrearUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GestionDeCategorias.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestionDeCategorias.Designer.cs">
+      <DependentUpon>GestionDeCategorias.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelPpal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PanelPpal.Designer.cs">
+      <DependentUpon>PanelPpal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegistrarEgreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarEgreso.Designer.cs">
+      <DependentUpon>RegistrarEgreso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistrarIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistrarIngreso.Designer.cs">
+      <DependentUpon>RegistrarIngreso.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AgregarCategoria.resx">
+      <DependentUpon>AgregarCategoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaGasto.resx">
+      <DependentUpon>ConsultaGasto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaIngreso.resx">
+      <DependentUpon>ConsultaIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DashBoard.resx">
+      <DependentUpon>DashBoard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarEgreso.resx">
+      <DependentUpon>EditarEgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditarIngreso.resx">
+      <DependentUpon>EditarIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCrearUsuario.resx">
+      <DependentUpon>frmCrearUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestionDeCategorias.resx">
+      <DependentUpon>GestionDeCategorias.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelPpal.resx">
+      <DependentUpon>PanelPpal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RegistrarEgreso.resx">
+      <DependentUpon>RegistrarEgreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistrarIngreso.resx">
+      <DependentUpon>RegistrarIngreso.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entidades\Entidades.csproj">
+      <Project>{971e30c4-b905-4cf6-8c33-6ff407a3b5f4}</Project>
+      <Name>Entidades</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Logica\Logica.csproj">
+      <Project>{5ae73709-0733-489e-b365-dacd8ec5529c}</Project>
+      <Name>Logica</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\4136942.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\d5f77c104128975.5f5bdc0d6d7b6.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\5506.gif_wh860.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\blurred_transparent_gif.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\money_9063314.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\search_4398568.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\iconos para un crear usuarios con colores verde oscuro, verde claro y verde menta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\imagen gosu2.0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\recurring-revenue-announcement.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\ganancia.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\money-bag-14140_256.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\menu-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\portrait_3917494.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\process_11204877.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\apps-delete_10406919.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\negotiation_5800225.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\transaction-history_9452687.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Captura de pantalla 2024-11-09 205337.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\pdf-document_4033705.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo para una aplicación de economía personal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\index_G.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\charity_3782269.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\pay_1570917.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\menu_4367525.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\inflation_10402101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\crisis_10401862.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\Diseño sin título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\tam panel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\ingrex_financie_darker_background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\calendar_2693507.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\delete_13170203.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagenes\draw_10941010.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

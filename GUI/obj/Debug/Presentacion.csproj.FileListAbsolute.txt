@@ -1,0 +1,747 @@
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\source\repos\ProyectoP3\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\GUI.SesionIniciada.resources
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\source\repos\ProyectoP3\GUI\obj\Debug\GUI.pdb
+D:\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+D:\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+D:\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+D:\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+D:\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+D:\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+D:\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+D:\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+D:\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+D:\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+D:\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+D:\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+D:\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\EconomiaPersonal_V2\GUI\obj\Debug\GUI.SesionIniciada.resources
+D:\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+D:\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\GUI.SesionIniciada.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v2 este si\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.SesionIniciada.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_VERCION MEJORADA\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.SesionIniciada.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2_estesi\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.BuscarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EliminarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.SesionIniciada.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.BuscarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EliminarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaAño.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaDia.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaMes.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_v5\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeUsuarios.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.MenuAdmin.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeUsuarios.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.MenuAdmin.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\PC_EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeUsuarios.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.MenuAdmin.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeUsuarios.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.MenuAdmin.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\ESTUDIANTES\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeUsuarios.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.MenuAdmin.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+D:\programacion 3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+D:\programacion 3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal____V2\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.4\EconomiaPersonal_V2.3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\Proyecto  P3\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal__V2\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarIngreso.resources
+D:\programacion 3\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarEgreso.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarEgreso.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarIngreso.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\Downloads\EconomiaPersonal_VF\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\RYZEN 7\Desktop\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarEgreso.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarIngreso.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+D:\Ondas\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\OneDrive\Escritorio\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2.1__\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe.config
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\GUI.exe
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\GUI.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.dll
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\Entidades.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\Logica.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\Logica.dll.config
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\itextsharp.xml
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\bin\Debug\Persistencia.pdb
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.AgregarCategoria.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaGasto.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.ConsultaIngreso.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.DashBoard.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarEgreso.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.EditarIngreso.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.frmCrearUsuario.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.GestionDeCategorias.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Inicio.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Login.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Menu.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.PanelPpal.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarEgreso.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.RegistrarIngreso.resources
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.exe
+C:\Users\kevin\Videos\EconomiaPersonal_V2\GUI\obj\Debug\GUI.pdb
